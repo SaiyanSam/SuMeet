@@ -1,0 +1,9 @@
+[00:00] Alice: Welcome everyone.
+
+[00:05] Bob: I will complete backend testing by Thursday.
+
+[00:12] Alice: Great. Let's move the release to Friday.
+
+[00:20] Charlie: We still need production credentials.
+
+[00:28] Alice: We'll discuss deployment next week.
