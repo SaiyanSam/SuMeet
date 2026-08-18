@@ -68,23 +68,6 @@ Tool     Tool            Tool
 
 ---
 
-# Development Roadmap
-
-| Day        | Objective                                                                                                | Deliverable                              | Progress  |
-| ---------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------- |
-| **Day 1**  | Repository foundation, transcript parsing, validation pipeline, Pydantic models, JSON export, unit tests | Transcript → Validated JSON pipeline     | ✅ Done    |
-| **Day 2**  | Audio ingestion and Whisper transcription                                                                | Audio → Timestamped transcript           | ⏳ Planned |
-| **Day 3**  | LCEL chains and structured extraction                                                                    | Chunk summaries, action items, decisions | ⏳ Planned |
-| **Day 4**  | Agent framework and tool registry                                                                        | Tool selection and validated execution   | ⏳ Planned |
-| **Day 5**  | Semantic search and retrieval                                                                            | FAISS-powered transcript search          | ⏳ Planned |
-| **Day 6**  | Meeting analytics and visualization                                                                      | DataFrames, metrics, charts              | ⏳ Planned |
-| **Day 7**  | Streamlit interface and exports                                                                          | Complete working application             | ⏳ Planned |
-| **Day 8**  | Evaluation framework                                                                                     | Annotated dataset and evaluation metrics | ⏳ Planned |
-| **Day 9**  | Documentation and GitHub polish                                                                          | Architecture, demo GIF, screenshots      | ⏳ Planned |
-| **Day 10** | Final optimization and resume-ready release                                                              | Stable v1.0 release                      | ⏳ Planned |
-
----
-
 # Current Status
 
 ## Completed
